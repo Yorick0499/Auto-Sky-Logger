@@ -1,4 +1,10 @@
 # Auto Sky Logger
+
+## About the project
+<p align="center">
+  <img src="ASL_logo.png">
+</p>
+
 Auto Sky Logger (ASL) is an automated program that collect weather data from the [IMGW API](https://danepubliczne.imgw.pl/api/data/synop/) for a chosen station and stores it in a MongoDB. It runs periodically and collects historical weather data over time.
 
 ## Example: Average Monthly Temperature for Kłodzko
