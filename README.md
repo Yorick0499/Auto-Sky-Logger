@@ -5,6 +5,12 @@
   <img src="ASL_logo.png">
 </p>
 
+[![Tests](https://img.shields.io/github/actions/workflow/status/Yorick0499/Auto-Sky-Logger/main.yml?branch=main&label=Tests&style=for-the-badge)](https://github.com/Yorick0499/Auto-Sky-Logger/actions "Tests")
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE "LICENSE")
+![Last Commit](https://img.shields.io/github/last-commit/Yorick0499/Auto-Sky-Logger?style=for-the-badge)
+![Maintenance](https://img.shields.io/maintenance/yes/2026?style=for-the-badge)
+
+
 Auto Sky Logger (ASL) is an automated program that collect weather data from the [IMGW API](https://danepubliczne.imgw.pl/api/data/synop/) for a chosen station and stores it in a MongoDB. It runs periodically and collects historical weather data over time.
 
 ## Example: Average Monthly Temperature for Kłodzko
