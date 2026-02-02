@@ -51,6 +51,11 @@ The MongoDB stores weather data with fields such as:
   - suma_opadu - total precipitation
   - cisnienie - pressure
 
+## Public Dataset (Kaggle)
+The weather data collected  by Auto Sky Logger (ASL) is also published as a public dataset on Kaggle.
+
+Kaggle dataset: https://www.kaggle.com/datasets/kacperrz/klodzko-weather-data
+
 
 ## Notes
 - This project is primarily as a personal automation, but anyone is welcome to fork and adapt it.
