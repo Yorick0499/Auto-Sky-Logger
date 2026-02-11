@@ -29,7 +29,7 @@ The example below is a visualization of collected data over time, showing the av
 1. Clone the repository:
   ```bash
   git clone https://github.com/Yorick0499/Auto-Sky-Logger.git
-  cd WeatherDB
+  cd Auto-Sky-Logger
   ```
 2. Install dependencies:
    ```bash
