@@ -170,8 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Credentials file
-credentials.py
 
-# Test files
-mongo_cache.py
