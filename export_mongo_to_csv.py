@@ -37,5 +37,6 @@ print(df.head())
 print(df.dtypes)
 
 df = df[df["measurement_date"] >= "2025-03-01"]
+df.drop_duplicates(inplace=True)
 
 df.to_csv("klodzko_weather.csv",index=False)
